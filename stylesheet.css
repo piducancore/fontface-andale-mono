@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Andale Mono";
+  src: url("files/AndaleMono.woff2") format("woff2"),
+    url("files/AndaleMono.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
