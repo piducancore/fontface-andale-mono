@@ -1,6 +1,15 @@
 {
   "name": "@piducancore/fonts-andale-mono",
-  "version": "1.0.0",
+  "description": "Andalé Mono font-face generated using Transfonter.",
+  "version": "1.0.1",
   "main": "stylesheet.css",
-  "license": "MIT"
+  "keywords": [
+    "webfonts",
+    "font-face"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piducancore/fonts-andale-mono"
+  }
 }
